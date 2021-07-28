@@ -1,5 +1,5 @@
 {
-  "name": "DaisyX",
+  "name": "ironman",
   "description": "?",
   "keywords": [
     "telegram",
@@ -8,7 +8,7 @@
     "telegram-DaisyX",
     "fuck-TG"
   ],
-  "repository": "https://github.com/TeamDaisyX/Daisy-x",
+  "repository": "https://github.com/aman706/IRONMAN",
   "website": "daisyproject.studio",
   "success_url": "t.me/DaisyXUpdates",
   "buildpacks": [
