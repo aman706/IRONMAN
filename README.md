@@ -76,59 +76,18 @@ $ python3 -m DaisyX
     [-] REDIS_URI: from redislabs.com (remove port)
     [-] REDIS_PORT: At the end of uri
     [-] REDIS_PASS: pass
-[+] The DaisyX won't run without setting the mandatory vars.
+[+] The ironman won't run without setting the mandatory vars.
 ```
 
-# 😍 Credits
-
- - [Hitsuki](https://github.com/HitsukiNetwork/Hitsukix)
- - [SophieBot](https://gitlab.com/SophieBot/sophie)
- - [Alita_Robot](https://github.com/DivideProjects/Alita_Robot/)
- - [FridayUserbot](https://github.com/DevsExpo/FridayUserbot)
- - [MissJuliaRobot](https://github.com/MissJuliaRobot/MissJuliaRobot)
- - [DaisyX](https://github.com/teamdaisyx/daisy-x)
- - [ADV-Auto-Filter-Bot-V2](https://github.com/AlbertEinsteinTG/Adv-Auto-Filter-Bot-V2)
- - [Image-Editor](https://github.com/TroJanzHEX/Image-Editor/)
- - [Utah](https://github.com/minatouzuki/utah).
- - [WilliamButcherBot](https://github.com/thehamkercat/WilliamButcherBot)
- - [LEGENDX](https://github.com/LEGENDXOP/LEGEND-X)
-
-## Special Credits
-- [SophieBot Devs](https://gitlab.com/SophieBot)
-- [TroJanzHEX](https://github.com/TroJanzHEX)
-- [infotechbro](https://github.com/infotechbro/)
-- [AlbertEinsteinTG](https://github.com/AlbertEinsteinTG)
-- [Amarnath c](https://github.com/Amarnathcdj)
-- [Thehamkercat](https://github.com/thehamkercat)
-- [StarkGang](https://github.com/StarkGang)
-- [chsaiujwal](https://github.com/chsaiujwal)
-- [LEGENDX](https://github.com/LEGENDXOP) 
-- [MissJuliaRobot](https://github.com/MissJuliaRobot) 
-- [HitsukiNetwork](https://github.com/HitsukiNetwork) 
-- [AnimeKaizoku](https://github.com/AnimeKaizoku) 
-- [Dan](https://github.com/delivrance) 
-- [Lonami](https://github.com/Lonami) 
-- [AioGram Project group](https://github.com/aiogram) 
-
-The bot is based on the original work done by [SophieBot](https://gitlab.com/SophieBot/sophie) and many other projects
-This repo was just revamped to suit an Anime-centric & comedy loving community. All original credits go to SophieBot and their dedication, Without his efforts, this fork would not have been possible!
 
 All other credits mentioned on top of scripts
 
-Anything missing kindly let us know at [Daisy Support](https://t.me/DaisySupport_Official) or simply submit a pull request on the readme.
+Anything missing kindly let us know at [ironman_support](https://t.me/Ironman_group_assist_bot) or simply submit a pull request on the readme.
 
 
-## Devs & Contributors
 
-#### • LUCIFER_MORNINGSTAR    »»  <a href="https://github.com/lucifeermorningstar" alt="lucifeermorningstar"> <img src="https://img.shields.io/badge/lucifeermorningstar-90302f?logo=github" /></a> (OWNER)
-#### • INUKA ASITH    »»  <a href="https://github.com/InukaAsith" alt="InukaAsith"> <img src="https://img.shields.io/badge/InukaAsith-107D8D?logo=github" /></a> (DEV)
-#### • ROSELOVERX  »»  <a href="https://github.com/Amarnathcdj" alt="RoseLoverX"> <img src="https://img.shields.io/badge/RoseLoverX-82CAFA?logo=github" /></a> (DEV)
-#### • INFOTECHBRO  »»  <a href="https://github.com/infotechbro" alt="infotechbro"> <img src="https://img.shields.io/badge/infotechbro-82CAFA?logo=github" /></a> (DEV)
-#### • ANJANA_MA »»  <a href="https://github.com/Anjana_ma" alt="Anjana"> <img src="https://img.shields.io/badge/Anjana-30302f?logo=github" /></a>
-#### • DARK PRINCE »»  <a href="https://github.com/Mr-Dark-Prince" alt="DarkPrince"> <img src="https://img.shields.io/badge/DarkPrince-95B9C7?logo=github" /></a>
-#### • OFFICIAL_BAWWA    »»  <a href="https://github.com/Official_Bawwa" alt="Official_Bawwa"> <img src="https://img.shields.io/badge/Official_Bawwa-90302f?logo=github" /></a>
-#### • Annihilatorrrr   »»  <a href="https://github.com/annihilatorrrr" alt="annihilatorrrr"> <img src="https://img.shields.io/badge/annihilatorrrr-E9E1E9?logo=github" /></a>
-#### • LEGENDX     »»  <a href="https://github.com/legendXOp" alt="LegendXOp"> <img src="https://img.shields.io/badge/LegendX-92CALA?logo=github" /></a> ( Fuck this Scammer ) 
+
+
 
 
 ## All who helped at a glance 
